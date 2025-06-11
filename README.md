@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a Software Engineer focused on backend development. 
-With over five years of experience in web development and software engineering, I have a good grasp of web technologies. Currently, my focus is on backend development and REST APIs with Java. With an AWS cloud certification under my belt, I also have a good background in cloud technologies.
+With over five years of experience in web development and software engineering, I have a good grasp of web technologies. Currently, my focus is on scalable backend development with Java. With an AWS cloud certification under my belt, I also have a good background in cloud technologies.
 
 Java/Spring boot
 PHP/Laravel
